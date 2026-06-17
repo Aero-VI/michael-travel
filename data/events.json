@@ -1,0 +1,50 @@
+[
+  {
+    "TripId": "miracle-uk-iceland-2025",
+    "Title": "Titanic Belfast",
+    "City": "Belfast",
+    "CountryCode": "GB",
+    "StartTime": "2025-07-01T10:00:00+01:00",
+    "EventType": "Excursion"
+  },
+  {
+    "TripId": "miracle-uk-iceland-2025",
+    "Title": "Seydisfjordur Exploration",
+    "City": "Seydisfjordur",
+    "CountryCode": "IS",
+    "StartTime": "2025-07-03T08:00:00+00:00",
+    "EventType": "Excursion"
+  },
+  {
+    "TripId": "miracle-uk-iceland-2025",
+    "Title": "Grindavik / Blue Lagoon Area",
+    "City": "Grindavik",
+    "CountryCode": "IS",
+    "StartTime": "2025-07-06T09:00:00+00:00",
+    "EventType": "Excursion"
+  },
+  {
+    "TripId": "korea-japan-2025",
+    "Title": "F1 Movie in 4DX",
+    "City": "Tokyo",
+    "CountryCode": "JP",
+    "StartTime": "2025-07-25T18:00:00+09:00",
+    "EventType": "Entertainment"
+  },
+  {
+    "TripId": "miracle-med-2-2025",
+    "Title": "Acropolis Walk",
+    "City": "Athens",
+    "CountryCode": "GR",
+    "StartTime": "2025-10-02T09:00:00+03:00",
+    "EventType": "Excursion"
+  },
+  {
+    "TripId": "miracle-med-2-2025",
+    "Title": "Beyoglu District (Istiklal Avenue / Taksim)",
+    "City": "Istanbul",
+    "CountryCode": "TR",
+    "StartTime": "2025-10-11T10:00:00+03:00",
+    "EventType": "Excursion"
+  }
+]

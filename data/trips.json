@@ -1,0 +1,579 @@
+[
+  {
+    "TripId": "panorama-transpacific-2024",
+    "TripName": "Carnival Panorama: Singapore to Long Beach (25 Days)",
+    "IsActiveTravel": true,
+    "Segments": [
+      {
+        "SegmentType": "Cruise",
+        "BookingNumber": "T7C6L7",
+        "CruiseLine": "Carnival",
+        "Ship": "Carnival Panorama",
+        "RoomType": "Journeys",
+        "Stateroom": null,
+        "DeparturePort": {
+          "PortName": "Singapore Cruise Centre",
+          "City": "Singapore",
+          "Province": null,
+          "CountryCode": "SG",
+          "Time": "2024-10-12T18:00:00+08:00"
+        },
+        "ArrivalPort": {
+          "PortName": "Port of Long Beach",
+          "City": "Long Beach",
+          "Province": "CA",
+          "CountryCode": "US",
+          "Time": "2024-11-05T09:00:00-08:00"
+        },
+        "PortsOfCall": [
+          { "PortName": "Phu My (Ho Chi Minh City)", "City": "Ho Chi Minh City", "CountryCode": "VN", "Date": "2024-10-14" },
+          { "PortName": "Kota Kinabalu", "City": "Kota Kinabalu", "CountryCode": "MY", "Date": "2024-10-16" },
+          { "PortName": "Manila", "City": "Manila", "CountryCode": "PH", "Date": "2024-10-18" },
+          { "PortName": "Guam", "City": "Hagatna", "CountryCode": "GU", "Date": "2024-10-22" },
+          { "PortName": "Honolulu", "City": "Honolulu", "CountryCode": "US", "Date": "2024-10-29" }
+        ],
+        "Source": "manual"
+      }
+    ]
+  },
+  {
+    "TripId": "sapphire-baltic-2026",
+    "TripName": "Sapphire Princess: Copenhagen & Baltic",
+    "IsActiveTravel": true,
+    "Segments": [
+      {
+        "SegmentType": "Cruise",
+        "BookingNumber": "DXHVVQ",
+        "CruiseLine": "Princess Cruises",
+        "Ship": "Sapphire Princess",
+        "RoomType": "Interior",
+        "Stateroom": null,
+        "DeparturePort": {
+          "PortName": "Copenhagen Cruise Port",
+          "City": "Copenhagen",
+          "CountryCode": "DK",
+          "Time": "2026-06-08T18:00:00+02:00"
+        },
+        "ArrivalPort": {
+          "PortName": "Copenhagen Cruise Port",
+          "City": "Copenhagen",
+          "CountryCode": "DK",
+          "Time": "2026-06-20T05:00:00+02:00"
+        },
+        "PortsOfCall": [
+          { "PortName": "Oslo", "City": "Oslo", "CountryCode": "NO", "Date": "2026-06-09" },
+          { "PortName": "Skagen", "City": "Skagen", "CountryCode": "DK", "Date": "2026-06-10" },
+          { "PortName": "Bornholm", "City": "Bornholm", "CountryCode": "DK", "Date": "2026-06-11" },
+          { "PortName": "Visby", "City": "Visby", "CountryCode": "SE", "Date": "2026-06-12" },
+          { "PortName": "Stockholm", "City": "Stockholm", "CountryCode": "SE", "Date": "2026-06-13" },
+          { "PortName": "Helsinki", "City": "Helsinki", "CountryCode": "FI", "Date": "2026-06-14" },
+          { "PortName": "Tallinn", "City": "Tallinn", "CountryCode": "EE", "Date": "2026-06-15" },
+          { "PortName": "Riga", "City": "Riga", "CountryCode": "LV", "Date": "2026-06-16" },
+          { "PortName": "Gdansk (Gdynia)", "City": "Gdynia", "CountryCode": "PL", "Date": "2026-06-18" }
+        ],
+        "Source": "manual"
+      }
+    ]
+  },
+  {
+    "TripId": "liberty-hamburg-bruges-2026",
+    "TripName": "Liberty of the Seas: Hamburg & Bruges",
+    "IsActiveTravel": true,
+    "Segments": [
+      {
+        "SegmentType": "Flight",
+        "BookingNumber": "D7U5A9",
+        "Airline": "Virgin Atlantic / SAS",
+        "FlightNumber": "SK503",
+        "Source": "email",
+        "Departure": {
+          "LocationName": "Copenhagen Airport (Kastrup)",
+          "City": "Copenhagen",
+          "CountryCode": "DK",
+          "Code": "CPH",
+          "Time": "2026-06-20T12:35:00+02:00"
+        },
+        "Arrival": {
+          "LocationName": "London Heathrow Airport",
+          "City": "London",
+          "CountryCode": "GB",
+          "Code": "LHR",
+          "Time": "2026-06-20T13:35:00+01:00"
+        }
+      },
+      {
+        "SegmentType": "Cruise",
+        "BookingNumber": "8553297",
+        "CruiseLine": "Royal Caribbean",
+        "Ship": "Liberty of the Seas",
+        "RoomType": "Spacious Ocean View Balcony (2B)",
+        "Stateroom": "8248",
+        "DeparturePort": {
+          "PortName": "Port of Southampton",
+          "City": "Southampton",
+          "CountryCode": "GB",
+          "Time": "2026-06-21T17:00:00+01:00"
+        },
+        "ArrivalPort": {
+          "PortName": "Port of Southampton",
+          "City": "Southampton",
+          "CountryCode": "GB",
+          "Time": "2026-06-26T05:30:00+01:00"
+        },
+        "PortsOfCall": [
+          { "PortName": "Hamburg", "City": "Hamburg", "CountryCode": "DE", "Date": "2026-06-23", "ArriveTime": "08:00", "DepartTime": "20:00" },
+          { "PortName": "Bruges (Zeebrugge)", "City": "Zeebrugge", "CountryCode": "BE", "Date": "2026-06-25", "ArriveTime": "08:00", "DepartTime": "17:00" }
+        ],
+        "Source": "manual"
+      }
+    ]
+  },
+  {
+    "TripId": "miracle-uk-iceland-2025",
+    "TripName": "Carnival Miracle: UK & Iceland",
+    "IsActiveTravel": true,
+    "Segments": [
+      {
+        "SegmentType": "Bus",
+        "Operator": "National Express",
+        "Route": "London to Dover",
+        "Source": "estimated",
+        "Departure": {
+          "LocationName": "London Victoria Coach Station",
+          "City": "London",
+          "CountryCode": "GB",
+          "Time": "2025-06-28T10:00:00+01:00"
+        },
+        "Arrival": {
+          "LocationName": "Dover Cruise Terminal",
+          "City": "Dover",
+          "CountryCode": "GB",
+          "Time": "2025-06-28T12:30:00+01:00"
+        }
+      },
+      {
+        "SegmentType": "Cruise",
+        "BookingNumber": "FN77C3",
+        "CruiseLine": "Carnival",
+        "Ship": "Carnival Miracle",
+        "RoomType": null,
+        "Stateroom": null,
+        "DeparturePort": {
+          "PortName": "Dover Cruise Terminal",
+          "City": "Dover",
+          "CountryCode": "GB",
+          "Time": "2025-06-29T16:30:00+01:00"
+        },
+        "ArrivalPort": {
+          "PortName": "Dover Cruise Terminal",
+          "City": "Dover",
+          "CountryCode": "GB",
+          "Time": "2025-07-11T05:00:00+01:00"
+        },
+        "PortsOfCall": [
+          { "PortName": "Belfast", "City": "Belfast", "CountryCode": "GB", "Date": "2025-07-01" },
+          { "PortName": "Seydisfjordur", "City": "Seydisfjordur", "CountryCode": "IS", "Date": "2025-07-03" },
+          { "PortName": "Akureyri", "City": "Akureyri", "CountryCode": "IS", "Date": "2025-07-04" },
+          { "PortName": "Grundarfjordur", "City": "Grundarfjordur", "CountryCode": "IS", "Date": "2025-07-05" },
+          { "PortName": "Reykjavik", "City": "Reykjavik", "CountryCode": "IS", "Date": "2025-07-06" },
+          { "PortName": "Heimaey (Westman Islands)", "City": "Heimaey", "CountryCode": "IS", "Date": "2025-07-07" },
+          { "PortName": "Invergordon", "City": "Invergordon", "CountryCode": "GB", "Date": "2025-07-09" }
+        ],
+        "Source": "manual"
+      },
+      {
+        "SegmentType": "Accommodation",
+        "DisplayName": "Travelodge Crawley",
+        "City": "Crawley",
+        "CountryCode": "GB",
+        "CheckInDate": "2025-07-10",
+        "CheckOutDate": "2025-07-11",
+        "Source": "manual"
+      },
+      {
+        "SegmentType": "Train",
+        "Operator": "Southeastern",
+        "Source": "estimated",
+        "Departure": {
+          "LocationName": "Dover Priory Station",
+          "City": "Dover",
+          "CountryCode": "GB",
+          "Time": "2025-07-11T08:00:00+01:00"
+        },
+        "Arrival": {
+          "LocationName": "London Victoria Station",
+          "City": "London",
+          "CountryCode": "GB",
+          "Time": "2025-07-11T10:00:00+01:00"
+        }
+      }
+    ]
+  },
+  {
+    "TripId": "korea-japan-2025",
+    "TripName": "South Korea & Japan",
+    "IsActiveTravel": true,
+    "Segments": [
+      {
+        "SegmentType": "Accommodation",
+        "DisplayName": "Airbnb Yongsan-gu (3BR near Seoul Station)",
+        "City": "Seoul",
+        "CountryCode": "KR",
+        "CheckInDate": "2025-07-12",
+        "CheckOutDate": "2025-07-19",
+        "Source": "manual"
+      },
+      {
+        "SegmentType": "Flight",
+        "BookingNumber": "1658105453471906",
+        "Airline": "Jeju Air",
+        "FlightNumber": null,
+        "Source": "manual",
+        "Departure": {
+          "LocationName": "Incheon International Airport",
+          "City": "Seoul",
+          "CountryCode": "KR",
+          "Code": "ICN",
+          "Time": "2025-07-19T23:00:00+09:00"
+        },
+        "Arrival": {
+          "LocationName": "Hiroshima Airport",
+          "City": "Hiroshima",
+          "CountryCode": "JP",
+          "Code": "HIJ",
+          "Time": "2025-07-20T01:00:00+09:00"
+        }
+      },
+      {
+        "SegmentType": "Accommodation",
+        "DisplayName": "Mitsui Garden Hotel Hiroshima",
+        "City": "Hiroshima",
+        "CountryCode": "JP",
+        "CheckInDate": "2025-07-19",
+        "CheckOutDate": "2025-07-21",
+        "Source": "manual"
+      },
+      {
+        "SegmentType": "Train",
+        "Operator": "JR West (Sanyo Shinkansen)",
+        "TrainNumber": "Nozomi",
+        "Source": "estimated",
+        "Departure": {
+          "LocationName": "Hiroshima Station",
+          "City": "Hiroshima",
+          "CountryCode": "JP",
+          "Time": "2025-07-20T12:00:00+09:00"
+        },
+        "Arrival": {
+          "LocationName": "Shin-Osaka Station",
+          "City": "Osaka",
+          "CountryCode": "JP",
+          "Time": "2025-07-20T13:30:00+09:00"
+        }
+      },
+      {
+        "SegmentType": "Accommodation",
+        "DisplayName": "Hotel in Naniwa-ku",
+        "City": "Osaka",
+        "CountryCode": "JP",
+        "CheckInDate": "2025-07-21",
+        "CheckOutDate": "2025-07-24",
+        "Source": "manual"
+      },
+      {
+        "SegmentType": "Train",
+        "Operator": "JR Central (Tokaido Shinkansen)",
+        "TrainNumber": "Nozomi",
+        "Source": "estimated",
+        "Departure": {
+          "LocationName": "Shin-Osaka Station",
+          "City": "Osaka",
+          "CountryCode": "JP",
+          "Time": "2025-07-23T10:00:00+09:00"
+        },
+        "Arrival": {
+          "LocationName": "Tokyo Station",
+          "City": "Tokyo",
+          "CountryCode": "JP",
+          "Time": "2025-07-23T12:30:00+09:00"
+        }
+      },
+      {
+        "SegmentType": "Accommodation",
+        "DisplayName": "Airbnb Otsuka Toshima-ku",
+        "City": "Tokyo",
+        "CountryCode": "JP",
+        "CheckInDate": "2025-07-23",
+        "CheckOutDate": null,
+        "Source": "manual"
+      }
+    ]
+  },
+  {
+    "TripId": "manila-layover-2025",
+    "TripName": "Manila Layover",
+    "IsActiveTravel": true,
+    "Segments": [
+      {
+        "SegmentType": "Accommodation",
+        "DisplayName": "Achievers Airport Hotel",
+        "City": "Manila",
+        "CountryCode": "PH",
+        "CheckInDate": null,
+        "CheckOutDate": null,
+        "Source": "manual"
+      }
+    ]
+  },
+  {
+    "TripId": "mardi-gras-transatlantic-to-europe-2025",
+    "TripName": "Mardi Gras: Cape Canaveral to Barcelona",
+    "IsActiveTravel": true,
+    "Segments": [
+      {
+        "SegmentType": "Accommodation",
+        "DisplayName": "Country Inn & Suites Port Canaveral",
+        "City": "Cape Canaveral",
+        "CountryCode": "US",
+        "CheckInDate": "2025-09-10",
+        "CheckOutDate": "2025-09-12",
+        "BookingNumber": "11493441",
+        "Source": "manual"
+      },
+      {
+        "SegmentType": "Cruise",
+        "BookingNumber": "Z0VR58",
+        "CruiseLine": "Carnival",
+        "Ship": "Mardi Gras",
+        "DeparturePort": {
+          "PortName": "Port Canaveral",
+          "City": "Cape Canaveral",
+          "Province": "FL",
+          "CountryCode": "US",
+          "Time": "2025-09-13T17:30:00-04:00"
+        },
+        "ArrivalPort": {
+          "PortName": "Port of Barcelona",
+          "City": "Barcelona",
+          "Province": "CT",
+          "CountryCode": "ES",
+          "Time": "2025-09-27T06:00:00+02:00"
+        },
+        "PortsOfCall": [
+          { "PortName": "Celebration Key", "City": "Freeport", "CountryCode": "BS", "Date": "2025-09-15" },
+          { "PortName": "Santa Cruz de Tenerife", "City": "Santa Cruz de Tenerife", "CountryCode": "ES", "Date": "2025-09-22" },
+          { "PortName": "Cadiz", "City": "Cadiz", "CountryCode": "ES", "Date": "2025-09-24" },
+          { "PortName": "Malaga", "City": "Malaga", "CountryCode": "ES", "Date": "2025-09-25" }
+        ],
+        "Source": "manual"
+      },
+      {
+        "SegmentType": "Flight",
+        "BookingNumber": "PK3MVP",
+        "Airline": "Wizz Air",
+        "Source": "manual",
+        "Departure": {
+          "LocationName": "Barcelona-El Prat Airport",
+          "City": "Barcelona",
+          "CountryCode": "ES",
+          "Code": "BCN",
+          "Time": "2025-09-27T14:00:00+02:00"
+        },
+        "Arrival": {
+          "LocationName": "Rome Fiumicino Airport",
+          "City": "Rome",
+          "CountryCode": "IT",
+          "Code": "FCO",
+          "Time": "2025-09-27T16:00:00+02:00"
+        }
+      }
+    ]
+  },
+  {
+    "TripId": "miracle-med-1-2025",
+    "TripName": "Carnival Miracle: Mediterranean I",
+    "IsActiveTravel": true,
+    "Segments": [
+      {
+        "SegmentType": "Cruise",
+        "BookingNumber": "KX10B3",
+        "CruiseLine": "Carnival",
+        "Ship": "Carnival Miracle",
+        "DeparturePort": {
+          "PortName": "Civitavecchia (Rome)",
+          "City": "Civitavecchia",
+          "CountryCode": "IT",
+          "Time": "2025-09-27T18:00:00+02:00"
+        },
+        "ArrivalPort": {
+          "PortName": "Civitavecchia (Rome)",
+          "City": "Civitavecchia",
+          "CountryCode": "IT",
+          "Time": "2025-10-06T07:00:00+02:00"
+        },
+        "PortsOfCall": [
+          { "PortName": "Naples", "City": "Naples", "CountryCode": "IT", "Date": "2025-09-28" },
+          { "PortName": "Messina", "City": "Messina", "CountryCode": "IT", "Date": "2025-09-29" },
+          { "PortName": "Dubrovnik", "City": "Dubrovnik", "CountryCode": "HR", "Date": "2025-10-01" },
+          { "PortName": "Corfu", "City": "Corfu", "CountryCode": "GR", "Date": "2025-10-02" },
+          { "PortName": "Katakolon (Olympia)", "City": "Katakolon", "CountryCode": "GR", "Date": "2025-10-03" }
+        ],
+        "Source": "manual"
+      }
+    ]
+  },
+  {
+    "TripId": "miracle-med-2-2025",
+    "TripName": "Carnival Miracle: Mediterranean II",
+    "IsActiveTravel": true,
+    "Segments": [
+      {
+        "SegmentType": "Cruise",
+        "BookingNumber": "LG71Q9",
+        "CruiseLine": "Carnival",
+        "Ship": "Carnival Miracle",
+        "DeparturePort": {
+          "PortName": "Civitavecchia (Rome)",
+          "City": "Civitavecchia",
+          "CountryCode": "IT",
+          "Time": "2025-10-06T18:00:00+02:00"
+        },
+        "ArrivalPort": {
+          "PortName": "Civitavecchia (Rome)",
+          "City": "Civitavecchia",
+          "CountryCode": "IT",
+          "Time": "2025-10-18T07:00:00+02:00"
+        },
+        "PortsOfCall": [
+          { "PortName": "Naples", "City": "Naples", "CountryCode": "IT", "Date": "2025-10-07" },
+          { "PortName": "Santorini", "City": "Santorini", "CountryCode": "GR", "Date": "2025-10-09" },
+          { "PortName": "Kusadasi (Ephesus)", "City": "Kusadasi", "CountryCode": "TR", "Date": "2025-10-10" },
+          { "PortName": "Istanbul", "City": "Istanbul", "CountryCode": "TR", "Date": "2025-10-11" },
+          { "PortName": "Mykonos", "City": "Mykonos", "CountryCode": "GR", "Date": "2025-10-13" },
+          { "PortName": "Athens (Piraeus)", "City": "Athens", "CountryCode": "GR", "Date": "2025-10-14" },
+          { "PortName": "Valletta", "City": "Valletta", "CountryCode": "MT", "Date": "2025-10-16" }
+        ],
+        "Source": "manual"
+      },
+      {
+        "SegmentType": "Flight",
+        "BookingNumber": "TNJ7FN",
+        "Airline": "Vueling",
+        "FlightNumber": "VY 8101",
+        "Source": "manual",
+        "Departure": {
+          "LocationName": "Athens International Airport",
+          "City": "Athens",
+          "CountryCode": "GR",
+          "Code": "ATH",
+          "Time": "2025-10-15T10:00:00+03:00"
+        },
+        "Arrival": {
+          "LocationName": "Barcelona-El Prat Airport",
+          "City": "Barcelona",
+          "CountryCode": "ES",
+          "Code": "BCN",
+          "Time": "2025-10-15T12:30:00+02:00"
+        }
+      }
+    ]
+  },
+  {
+    "TripId": "mardi-gras-transatlantic-to-usa-2025",
+    "TripName": "Mardi Gras: Barcelona to Cape Canaveral",
+    "IsActiveTravel": true,
+    "Segments": [
+      {
+        "SegmentType": "Cruise",
+        "BookingNumber": "Z0VR92",
+        "CruiseLine": "Carnival",
+        "Ship": "Mardi Gras",
+        "DeparturePort": {
+          "PortName": "Port of Barcelona",
+          "City": "Barcelona",
+          "Province": "CT",
+          "CountryCode": "ES",
+          "Time": "2025-10-16T19:00:00+02:00"
+        },
+        "ArrivalPort": {
+          "PortName": "Port Canaveral",
+          "City": "Cape Canaveral",
+          "Province": "FL",
+          "CountryCode": "US",
+          "Time": "2025-10-30T08:00:00-04:00"
+        },
+        "PortsOfCall": [
+          { "PortName": "Malaga", "City": "Malaga", "CountryCode": "ES", "Date": "2025-10-18" },
+          { "PortName": "Cadiz (Seville)", "City": "Cadiz", "CountryCode": "ES", "Date": "2025-10-19" },
+          { "PortName": "Tenerife", "City": "Santa Cruz de Tenerife", "CountryCode": "ES", "Date": "2025-10-21" },
+          { "PortName": "Celebration Key", "City": "Freeport", "CountryCode": "BS", "Date": "2025-10-29" }
+        ],
+        "Source": "manual"
+      }
+    ]
+  },
+  {
+    "TripId": "mardi-gras-caribbean-2025",
+    "TripName": "Mardi Gras: Eastern Caribbean",
+    "IsActiveTravel": true,
+    "Segments": [
+      {
+        "SegmentType": "Cruise",
+        "BookingNumber": "GJ85S0",
+        "CruiseLine": "Carnival",
+        "Ship": "Mardi Gras",
+        "DeparturePort": {
+          "PortName": "Port Canaveral",
+          "City": "Cape Canaveral",
+          "Province": "FL",
+          "CountryCode": "US",
+          "Time": "2025-10-30T16:30:00-04:00"
+        },
+        "ArrivalPort": {
+          "PortName": "Port Canaveral",
+          "City": "Cape Canaveral",
+          "Province": "FL",
+          "CountryCode": "US",
+          "Time": "2025-11-08T08:00:00-05:00"
+        },
+        "PortsOfCall": [
+          { "PortName": "Charlotte Amalie", "City": "St. Thomas", "CountryCode": "VI", "Date": "2025-11-02" },
+          { "PortName": "Philipsburg", "City": "St. Maarten", "CountryCode": "SX", "Date": "2025-11-03" },
+          { "PortName": "San Juan", "City": "San Juan", "CountryCode": "PR", "Date": "2025-11-04" },
+          { "PortName": "Amber Cove", "City": "Puerto Plata", "CountryCode": "DO", "Date": "2025-11-05" },
+          { "PortName": "Celebration Key", "City": "Freeport", "CountryCode": "BS", "Date": "2025-11-07" }
+        ],
+        "Source": "manual"
+      }
+    ]
+  },
+  {
+    "TripId": "mardi-gras-caribbean-2-2025",
+    "TripName": "Mardi Gras: Caribbean III",
+    "IsActiveTravel": true,
+    "Segments": [
+      {
+        "SegmentType": "Cruise",
+        "BookingNumber": null,
+        "CruiseLine": "Carnival",
+        "Ship": "Mardi Gras",
+        "DeparturePort": {
+          "PortName": "Port Canaveral",
+          "City": "Cape Canaveral",
+          "Province": "FL",
+          "CountryCode": "US",
+          "Time": "2025-11-08T16:30:00-05:00"
+        },
+        "ArrivalPort": {
+          "PortName": "Port Canaveral",
+          "City": "Cape Canaveral",
+          "Province": "FL",
+          "CountryCode": "US",
+          "Time": "2025-11-17T08:00:00-05:00"
+        },
+        "PortsOfCall": [],
+        "Source": "manual"
+      }
+    ]
+  }
+]
