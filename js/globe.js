@@ -10,14 +10,14 @@ let _countryFetchInFlight = false;
 
 const ROUTE_COLORS = {
   Flight: '#c084fc',
-  Cruise: '#f472b6',
+  Cruise: '#f59e0b',
   Train: '#fbbf24',
   Bus: '#4ade80'
 };
 
 const MARKER_COLORS = {
   Flight: '#c084fc',
-  Cruise: '#f472b6',
+  Cruise: '#f59e0b',
   Train: '#fbbf24',
   Bus: '#4ade80',
   Event: '#34d399',
@@ -685,11 +685,11 @@ function applyCountryHighlights(data, iso3Set) {
   var beforeLayer = map.getLayer('cruise-glow') ? 'cruise-glow' : undefined;
   map.addLayer({
     id: 'country-fill', type: 'fill', source: 'visited-countries',
-    paint: { 'fill-color': '#f472b6', 'fill-opacity': 0.12 }
+    paint: { 'fill-color': '#f59e0b', 'fill-opacity': 0.12 }
   }, beforeLayer);
   map.addLayer({
     id: 'country-border', type: 'line', source: 'visited-countries',
-    paint: { 'line-color': '#f472b6', 'line-width': 1.2, 'line-opacity': 0.4 }
+    paint: { 'line-color': '#f59e0b', 'line-width': 1.2, 'line-opacity': 0.4 }
   }, beforeLayer);
 }
 
